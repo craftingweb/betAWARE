@@ -17,6 +17,10 @@ Gambling addiction silently destroys finances, relationships, and mental health.
 ### Challenges We Faced 
 
 ## Features
-
+Motivational Quotes: Generated quotes to lift the users mood and encourage them 
+Gamification: Create milestones for the user, make them feel rewarded during their journey
+Financial Tools: Budgeting tips and investment basics that a user can use to build their wealth for the future
+Additional Education: Risk, warning signs, and recovery resources 
+Resources: 
 ## How to Run the Project
 
