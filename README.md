@@ -1,7 +1,7 @@
 # betAWARE
 **Don't let a bet steal your peace.** \
 → Accessible at:\
-donotletabetstealyourpeace.life | donotletabetstealyourpeace.bet
+donotletabetstealyourpeace.us
 # Overview
 betAware is a financial wellness tool designed to educate users about the risks of gambling addiction while promoting healthier money habits. Through gamification and actionable insights, it's to help users break the cycle of gambling and build sustainable wealth.
 ## Inspiration  
@@ -45,4 +45,15 @@ That's why we built BetAware: to offer a gentle, supportive way for people to re
 
 
 ## How to Run the Project
+```bash
+git clone https://github.com/craftingweb/betAWARE.git
+cd betAWARE
 
+pnpm install
+
+cp .env.example .env.local
+nano .env.local
+
+pnpm dev
+
+manually visit: http://localhost:3000
