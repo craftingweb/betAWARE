@@ -1,7 +1,7 @@
 # betAWARE
 **Don't let a bet steal your peace.** \
 → Accessible at:\
-donotletabetstealyourpeace.us
+https://betaware.vercel.app/smart-play
 # Overview
 betAware is a financial wellness tool designed to educate users about the risks of gambling addiction while promoting healthier money habits. Through gamification and actionable insights, it's to help users break the cycle of gambling and build sustainable wealth.
 ## Inspiration  
